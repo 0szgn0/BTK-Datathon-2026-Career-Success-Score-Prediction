@@ -1,0 +1,8 @@
+kagglehub
+pandas
+numpy
+catboost
+xgboost
+scikit-learn
+category-encoders
+pytorch-tabnet
