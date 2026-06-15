@@ -6,8 +6,8 @@ This repository contains the end-to-end pipeline developed for the **BTK Datatho
 
 In competitive data science, the true test of a model is how it performs on unseen private data. While many models suffer from "shake-down" due to overfitting the public leaderboard, this architecture demonstrated exceptional stability:
 
-* **Public MSE:** 88.66
-* **Private MSE:** 89.155
+* **Public MSE:** 88.664360
+* **Private MSE:** 89.155655
 * **Delta:** ~0.49 points
 
 This minimal gap between public and private scores proves the highly robust, generalizable nature of the pipeline. It successfully avoids target leakage and relies on a strict validation strategy rather than public leaderboard probing.
